@@ -38,6 +38,10 @@ N’y publiez aucune clé API, donnée personnelle, partie de code privé ou aut
 
 CodeSlice AI ne collecte aucune télémétrie et ne transmet aucune donnée à son développeur. Les instructions et le contexte du projet sont envoyés directement au fournisseur IA sélectionné, uniquement lorsque vous effectuez une requête.
 
+## Screenshot / Capture d’écran
+
+![CodeSlice AI chat with project context](media/screenshots/chat-context.png)
+
 ## About this repository / À propos de ce dépôt
 
 This public repository contains support information and screenshots only. The extension source code is maintained in a private repository.
