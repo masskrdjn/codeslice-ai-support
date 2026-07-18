@@ -42,6 +42,8 @@ CodeSlice AI ne collecte aucune télémétrie et ne transmet aucune donnée à s
 
 ![CodeSlice AI chat with project context](media/screenshots/chat-context.png)
 
+![CodeSlice AI controlled edit preview](media/screenshots/controlled-edit.png)
+
 ## About this repository / À propos de ce dépôt
 
 This public repository contains support information and screenshots only. The extension source code is maintained in a private repository.
